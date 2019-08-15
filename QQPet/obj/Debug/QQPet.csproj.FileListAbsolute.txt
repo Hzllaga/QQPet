@@ -1,0 +1,6 @@
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\bin\Debug\QQPet.exe
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\bin\Debug\QQPet.pdb
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\obj\Debug\QQPet.csprojAssemblyReference.cache
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\obj\Debug\QQPet.csproj.CoreCompileInputs.cache
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\obj\Debug\QQPet.exe
+C:\Users\Hzllaga\source\repos\QQPet\QQPet\obj\Debug\QQPet.pdb
